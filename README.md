@@ -15,3 +15,9 @@
 - Can get a lot of processing done in a short time
 - Good for high-eng games, AI, device drivers
 - Pushes you to understand your computer
+
+### Compilers
+
+- GNU G++ / GCC
+- MinGW
+- Visual C++ compiler
