@@ -21,3 +21,10 @@
 - GNU G++ / GCC
 - MinGW
 - Visual C++ compiler
+
+### IDE 
+
+- Eclipse CDT
+- Visual C++
+- Codeblocks
+- Emacs, VIM, etc.
